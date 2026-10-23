@@ -1,18 +1,18 @@
-# CREA LAB 4.0 — Demo pública
+# CREA LAB 4.0 — DEMO PÚBLICA
 
-Demo educativa estática para GitHub Pages. Abrir index.html o publicar desde main, carpeta raíz.
-
-## Contenido
-Una misión navegable con seis sesiones, reto de escalas, autoevaluación y editor docente local. Las otras cinco misiones están anunciadas como próximas.
-
-## Privacidad y límites
-- Sin cuentas, PIN, servidor, base de datos, analítica ni bibliotecas externas.
-- No introducir nombres, fotos, calificaciones u otros datos personales. Utilizar información inventada.
-- Progreso, reflexiones y cambios solo en el almacenamiento local del navegador; pueden ser visibles a otras personas que usen el mismo perfil del dispositivo.
-- El panel docente es público y sus cambios no modifican la web de otros visitantes.
-- Las descargas se generan localmente. El enlace a MakeCode abre un servicio externo.
-- La política de contenido bloquea conexiones iniciadas por los scripts de la app. GitHub presta el alojamiento y puede registrar accesos según sus políticas.
-- Es un prototipo de demostración, no un sistema de gestión escolar ni un registro de notas.
+Esta versión está preparada para GitHub Pages.
 
 ## Publicación
-En Settings → Pages: Deploy from a branch → main → /(root) → Save. Mantener HTTPS activado.
+1. Crea un repositorio público llamado `crea-lab-4-0`.
+2. Sube `index.html` y `.nojekyll` a la raíz del repositorio.
+3. En Settings > Pages, elige Deploy from a branch, `main`, `/(root)` y Save.
+4. Abre la dirección que GitHub Pages indique.
+
+## Seguridad y limitaciones
+- NO hay inicio de sesión, cuentas ni PIN.
+- NO hay servidor ni base de datos.
+- El panel docente no es privado: cualquier visitante puede abrirlo y editar su copia local.
+- El progreso y los cambios se guardan solo en el navegador del dispositivo.
+- No introduzcas nombres, apellidos, fotos, calificaciones ni otros datos reales.
+- Usa exclusivamente información inventada para pruebas.
+- Para alumnado real, requiere revisión y autorización del centro antes de tratar datos personales.
